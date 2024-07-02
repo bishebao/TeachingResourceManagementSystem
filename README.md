@@ -1,0 +1,2 @@
+# TeachingResourceManagementSystem
+ 基于SpringBoot Vue教学资源管理系统
